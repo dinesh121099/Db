@@ -6,28 +6,28 @@
   ],
   "list": [
     {
-      name: "apple",
-      qty: "5"
+      "name": "apple",
+      "qty": "5"
     },
     {
-      name: "ball",
-      qty: "4"
+      "name": "ball",
+      "qty": "4"
     },
     {
-      name: "cat",
-      qty: "6"
+      "name": "cat",
+      "qty": "6"
     },
     {
-      name: "dog",
-      qty: "2"
+      "name": "dog",
+      "qty": "2"
     },
     {
-      name: "elephant",
-      qty: "1"
+      "name": "elephant",
+      "qty": "1"
     },
     {
-      name: "goat",
-      qty: "20"
+      "name": "goat",
+      "qty": "20"
     }
   ]
 }
