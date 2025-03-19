@@ -9,11 +9,11 @@
           "title": "world"
       },
       {
-            "id": 3,
-            "title": "people"
+          "id": 3,
+          "title": "people"
       },
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     },
   }
