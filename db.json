@@ -54,5 +54,107 @@
       "name": "goat",
       "qty": "20"
     }
+  ],
+  "fruits": [
+    {
+      "id": 0,
+      "name": "Apple",
+      "stock": "IN"
+    },
+    {
+      "id": 1,
+      "name": "Banana",
+      "stock": "IN"
+    },
+    {
+      "id": 2,
+      "name": "Pears",
+      "stock": "OUT"
+    },
+    {
+      "id": 3,
+      "name": "Plum",
+      "stock": "OUT"
+    },
+    {
+      "id": 4,
+      "name": "Orange",
+      "stock": "IN"
+    },
+    {
+      "id": 5,
+      "name": "Grapes",
+      "stock": "IN"
+    },
+    {
+      "id": 6,
+      "name": "Mango",
+      "stock": "IN"
+    },
+    {
+      "id": 7,
+      "name": "Kiwi",
+      "stock": "OUT"
+    },
+    {
+      "id": 8,
+      "name": "Pineapple",
+      "stock": "IN"
+    },
+    {
+      "id": 9,
+      "name": "Strawberry",
+      "stock": "OUT"
+    },
+    {
+      "id": 10,
+      "name": "Blueberry",
+      "stock": "IN"
+    },
+    {
+      "id": 11,
+      "name": "Watermelon",
+      "stock": "IN"
+    },
+    {
+      "id": 12,
+      "name": "Papaya",
+      "stock": "OUT"
+    },
+    {
+      "id": 13,
+      "name": "Coconut",
+      "stock": "IN"
+    },
+    {
+      "id": 14,
+      "name": "Dragon Fruit",
+      "stock": "IN"
+    },
+    {
+      "id": 15,
+      "name": "Cherries",
+      "stock": "OUT"
+    },
+    {
+      "id": 16,
+      "name": "Blackberry",
+      "stock": "IN"
+    },
+    {
+      "id": 17,
+      "name": "Peach",
+      "stock": "OUT"
+    },
+    {
+      "id": 18,
+      "name": "Lychee",
+      "stock": "IN"
+    },
+    {
+      "id": 19,
+      "name": "Raspberry",
+      "stock": "OUT"
+    }
   ]
 }
